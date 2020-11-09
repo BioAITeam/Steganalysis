@@ -15,3 +15,5 @@ TIF2PGM.m: Allows you to convert images from the Alaska database from TIFF to PG
 
 
 model.png: GBRAS-Net Architecture.
+
+The data set used to reproduce the results can be downloaded from: [SET TRANSACTION ISOLATION LEVEL] (https://drive.google.com/drive/folders/1G5vdhW11_qKfVC6W8_pfJpstVkXUk1QQ?usp=sharing)
