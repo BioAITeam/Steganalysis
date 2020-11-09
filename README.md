@@ -19,3 +19,5 @@
 <strong>model.png</strong>: GBRAS-Net Architecture.
 
 The data set used to reproduce the results can be downloaded from: <a href="https://drive.google.com/drive/folders/1G5vdhW11_qKfVC6W8_pfJpstVkXUk1QQ?usp=sharing">Here</a>
+
+![Alt text](https://github.com/BioAITeam/Steganalysis/model.png?raw=true "Optional Title")
