@@ -13,7 +13,7 @@
 <strong>SRM_Kernels1.npy</strong>: It contains the values of the 30 filters (SRM) needed for the first layer of the proposed architecture.
 
 
-<strong>TIF2PGM.m</strong>: Allows you to convert images from the Alaska database from TIFF to PGM format.
+<strong>Matlab</strong>: Allows you to convert images from the Alaska database from TIFF to PGM format.
 
 
 <strong>model.png</strong>: GBRAS-Net Architecture.
