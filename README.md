@@ -19,7 +19,11 @@
 <strong>model.png</strong>: GBRAS-Net Architecture.
 
 
-<strong>Trained_models</strong>: Best trained models.
+<strong>Trained_Models</strong>: Best trained models.
+
+
+<strong>Trained_Models.ipynb</strong>: Load the best models and reproduce results.
+
 
 The data set used to reproduce the results can be downloaded from: <a href="https://drive.google.com/drive/folders/1G5vdhW11_qKfVC6W8_pfJpstVkXUk1QQ?usp=sharing">Here</a>
 
