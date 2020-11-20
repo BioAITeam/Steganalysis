@@ -18,6 +18,9 @@
 
 <strong>model.png</strong>: GBRAS-Net Architecture.
 
+
+<strong>Trained_models</strong>: Best trained models.
+
 The data set used to reproduce the results can be downloaded from: <a href="https://drive.google.com/drive/folders/1G5vdhW11_qKfVC6W8_pfJpstVkXUk1QQ?usp=sharing">Here</a>
 
 ![GBRAS-Net Architecture](https://github.com/BioAITeam/Steganalysis/blob/main/model.png?raw=true "GBRAS-Net Architecture")
