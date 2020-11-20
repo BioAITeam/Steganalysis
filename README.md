@@ -21,10 +21,18 @@
 
 <strong>Trained_Models.ipynb</strong>: Load the best models and reproduce results.
 
+
+<strong>Metrics_Visualization.ipynb</strong>: loads the WOW 0.4 bpp model and the database, generates classification report, confusion matrix and ROC curves and class prediction error.
+
+
+<strong>MV.py</strong>: Necessary libraries for the results visualization.
+
+
 <strong>Trained_Models</strong>: Best trained models.
 
 
 <strong>images</strong>: Some GBRAS-Net results.
+
 
 The data set used to reproduce the results can be downloaded from: <a href="https://drive.google.com/drive/folders/1G5vdhW11_qKfVC6W8_pfJpstVkXUk1QQ?usp=sharing">Here</a>
 
