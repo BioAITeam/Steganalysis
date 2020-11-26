@@ -34,6 +34,6 @@
 <strong>images</strong>: Some GBRAS-Net results.
 
 
-The data set used to reproduce the results can be downloaded from: <a href="https://drive.google.com/drive/folders/1G5vdhW11_qKfVC6W8_pfJpstVkXUk1QQ?usp=sharing">Here</a>
+The data set used to reproduce the results can be downloaded from: <a href="https://drive.google.com/drive/folders/1G5vdhW11_qKfVC6W8_pfJpstVkXUk1QQ?usp=sharing">Here</a>. 10,000 grayscale images from <a href="http://agents.fel.cvut.cz/boss/index.php?mode=VIEW&tmpl=materials">BOSS competition</a>.
 
 ![GBRAS-Net Architecture](https://github.com/BioAITeam/Steganalysis/blob/main/model.png?raw=true "GBRAS-Net Architecture")
