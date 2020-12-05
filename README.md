@@ -49,4 +49,5 @@ The data set used to reproduce the results can be downloaded from: <a href="http
 
 ![GBRAS-Net Architecture](https://github.com/BioAITeam/Steganalysis/blob/main/model.pdf?raw=true "GBRAS-Net Architecture")
 
+<a href="https://github.com/BioAITeam/Steganalysis/blob/main/model.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
 
