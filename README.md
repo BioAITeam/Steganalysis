@@ -8,7 +8,7 @@
 
 ## Folders
 
-  -**Matlab**: Allows you to convert images from the Alaska database from TIFF to PGM format.
+  -**MATLAB**: Allows you to convert images from the Alaska database from TIFF to PGM format.
   
   
   -**Trained_Models**: Best trained models.
