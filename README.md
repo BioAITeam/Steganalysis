@@ -47,5 +47,5 @@ The data set used to reproduce the results can be downloaded from: <a href="http
 ## GBRAS-NET Architecture
 
 
-![GBRAS-Net Architecture](https://github.com/BioAITeam/Steganalysis/blob/main/model.jpg?raw=true "GBRAS-Net Architecture")
+![GBRAS-Net Architecture](https://github.com/BioAITeam/Steganalysis/blob/main/model.png?raw=true "GBRAS-Net Architecture")
 
