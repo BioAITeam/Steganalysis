@@ -25,7 +25,7 @@
   -**SRM_Kernels1.npy**: It contains the values of the 30 filters (SRM) needed for the first layer of the proposed architecture.
   
   
-  -**model.png**: GBRAS-Net Architecture.
+  -**model.svg**: GBRAS-Net Architecture.
   
   
   -**Trained_Models.ipynb**: Load the best models and reproduce results.
