@@ -21,7 +21,8 @@ T. -S. Reinel et al., "GBRAS-Net: A Convolutional Neural Network Architecture fo
   volume={9},  
   number={},  
   pages={14340-14350},  
-  doi={10.1109/ACCESS.2021.3052494}}
+  doi={10.1109/ACCESS.2021.3052494}
+}
 ```
 
 This paper was published as a journal paper in IEEE Access. ([PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9328287))
