@@ -6,24 +6,25 @@
 
 <p align="justify">Advances in Deep Learning (DL) have provided alternative approaches to various complex problems, including the domain of spatial image steganalysis using Convolutional Neural Networks (CNN). Several CNN architectures have been developed in recent years, which have improved the detection accuracy of steganographic images. This work presents a novel CNN architecture which involves a preprocessing stage using filter banks to enhance steganographic noise, a feature extraction stage using depthwise and separable convolutional layers, and skip connections. Performance was evaluated using the BOSSbase 1.01 and BOWS 2 datasets with different experimental setups, including adaptive steganographic algorithms, namely WOW, S-UNIWARD, MiPOD, HILL and HUGO. Our results outperformed works published in the last few years in every experimental setting. This work improves classification accuracies on all algorithms and bits per pixel (bpp), reaching 80.3% on WOW with 0.2 bpp and 89.8% on WOW with 0.4 bpp, 73.6% and 87.1% on S-UNIWARD (0.2 and 0.4 bpp respectively), 68.3% and 81.4% on MiPOD (0.2 and 0.4 bpp), 68.5% and 81.9% on HILL (0.2 and 0.4 bpp), 74.6% and 84.5% on HUGO (0.2 and 0.4 bpp), using BOSSbase 1.01 test data. </p>
 
-## Paper link
-<a href="https://ieeexplore.ieee.org/document/9328287">GBRAS-Net</a>
+## Citing
 
-## To cite this work
+If you use our project for your research or if you find this paper and repository helpful, please consider citing the work:
 
-(bib):
-@ARTICLE{9328287,
-  author={Reinel, Tabares-Soto and Brayan, Arteaga-Arteaga Harold and Alejandro, Bravo-Ortiz Mario and Alejandro, Mora-Rubio and Daniel, Arias-Garzón and Alejandro, Alzate-Grisales Jesús and Buenaventura, Burbano-Jacome Alejandro and Simon, Orozco-Arias and Gustavo, Isaza and Raúl, Ramos-Pollán},
-  journal={IEEE Access}, 
-  title={GBRAS-Net: A Convolutional Neural Network Architecture for Spatial Image Steganalysis}, 
-  year={2021},
-  volume={9},
-  number={},
-  pages={14340-14350},
+T. -S. Reinel et al., "GBRAS-Net: A Convolutional Neural Network Architecture for Spatial Image Steganalysis," in IEEE Access, vol. 9, pp. 14340-14350, 2021, doi: [10.1109/ACCESS.2021.3052494](https://doi.org/10.1109/ACCESS.2021.3052494). 
+
+```
+@ARTICLE{GBRAS2021,  
+  author={Reinel, Tabares-Soto and Brayan, Arteaga-Arteaga Harold and Alejandro, Bravo-Ortiz Mario and Alejandro, Mora-Rubio and Daniel, Arias-Garzón and Alejandro, Alzate-Grisales Jesús and Buenaventura, Burbano-Jacome Alejandro and Simon, Orozco-Arias and Gustavo, Isaza and Raúl, Ramos-Pollán},  
+  journal={IEEE Access},   
+  title={GBRAS-Net: A Convolutional Neural Network Architecture for Spatial Image Steganalysis},   
+  year={2021},  
+  volume={9},  
+  number={},  
+  pages={14340-14350},  
   doi={10.1109/ACCESS.2021.3052494}}
+```
 
-(plain text IEEE):
-T. -S. Reinel et al., "GBRAS-Net: A Convolutional Neural Network Architecture for Spatial Image Steganalysis," in IEEE Access, vol. 9, pp. 14340-14350, 2021, doi: 10.1109/ACCESS.2021.3052494.
+This paper was published as a journal paper in IEEE Access. ([Webpage](https://ieeexplore.ieee.org/document/9328287))
 
 ## Folders
 
